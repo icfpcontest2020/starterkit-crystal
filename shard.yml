@@ -1,0 +1,13 @@
+name: app
+version: 0.1.0
+
+authors:
+  - write your name here
+
+targets:
+  app:
+    main: src/main.cr
+
+crystal: 0.35.1
+
+license: MIT
